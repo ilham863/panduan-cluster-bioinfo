@@ -3,11 +3,6 @@
 Dokumentasi infrastruktur cluster: apa yang sudah dibangun, cara setupnya, cara
 memakainya, dan cara menerima pengguna eksternal.
 
-Status: **DRAF untuk direview**. Belum di-upload ke mana pun.
-Disusun: 2026-10-01. Penyusun: IT Bioinformatika (Ilham).
-
-> **Baca [10-keamanan-sebelum-upload.md](10-keamanan-sebelum-upload.md) sebelum
-> folder ini di-upload ke GitHub.** Repo `insfra-docs` saat ini **public**.
 
 ---
 
